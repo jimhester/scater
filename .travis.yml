@@ -34,4 +34,4 @@ env:
     - R_CHECK_ARGS="--no-vignettes --timings" # Mimic BioC build machines
   matrix:
     - RVERSION=devel # BioC 3.3 uses R 3.3.x (R-devel at the time of writing).
-                     # This needs to be manually updated upon new BioC version.
+                     # This needs to be manually updated upon new BioC version. 
